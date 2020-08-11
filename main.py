@@ -100,4 +100,4 @@ async def ESex(ctx):
     await ctx.message.delete()
     await ctx.send('**I want you to hold me so tight. I want you to lick me all over.I want to perform your art on me! I want to have every reason to moan and scream your name! I want you to kiss me so badly making me want you in sweet and reckless abandon! You are my sweet craving!**')
 
-JANKY.run('YOUR TOKEN HERE', bot=False)
+JANKY.run('NDAyMDQyMTIzODg2NjU3NTM2.XzGzmA.0K8NCsPFFRxmuv2fLkPRw4TXVs8', bot=False)
